@@ -1,8 +1,10 @@
 # Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-
 
-Name :	BHUVANESHWAR V
+Name : BHUVANESHWAR V
 
-Roll no :212221240009
+Roll No: 212221240009
+
+Date of experiment : 04.11.2022
 
 ## Configuring UART in LPC2148 for serial data transmission 
 
